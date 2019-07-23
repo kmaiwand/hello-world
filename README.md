@@ -1,3 +1,3 @@
 # hello-world
 my first attempt to use Github
-lEARNING TO USE gIT WITH pYTHON
+Learning to use Git with my Python projects
